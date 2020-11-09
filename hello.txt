@@ -1,7 +1,10 @@
 hello
 hello2
 hello3
+<<<<<<< HEAD
 hello4
+=======
+>>>>>>> eb6983f4a827f24443d264f216ecdcb5c7b9ad70
 bugfix1
 bugfix2
 
